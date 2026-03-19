@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	cout << "Hello World!\n";
-	cout << "It is 2026.\n";
+	cout << "It is March 2026.\n";
 	cout << "Have fun coding!";
 
 	return 0;
