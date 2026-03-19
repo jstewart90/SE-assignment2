@@ -5,7 +5,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World!\n";
+	cout << "Welcome and hello World!\n";
+	cout << "How are you?\n";
 	cout << "It is March 2026.\n";
 	cout << "Have fun coding!";
 
